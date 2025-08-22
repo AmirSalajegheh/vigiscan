@@ -1,0 +1,8 @@
+torch
+ultralytics
+opencv-python
+Pillow
+numpy
+arabic-reshaper
+python-bidi
+tk
