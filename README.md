@@ -109,8 +109,4 @@ python detection.py --input Data/test_input.mp4 --output Data/output.mp4
 - [ ] پشتیبانی از چند دوربین همزمان  
 - [ ] داشبورد تحت وب با Streamlit / FastAPI  
 
----
 
-## 👤 نویسنده  
-
-👨‍💻 توسعه‌دهنده: [**Amir Salajegheh**](https://github.com/AmirSalajegheh)  
